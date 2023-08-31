@@ -1,5 +1,4 @@
-import marca
-import tv
+
 class Control:
     def __init__(self):
         self._tv = None

@@ -1,5 +1,4 @@
-import control
-import marca
+
 class TV:
     numTV = 0
 
